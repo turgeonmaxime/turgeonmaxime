@@ -1,6 +1,6 @@
 # Max Turgeon
 
-I'm an Assistant Professor in the departments of [Statistics](https://www.sci.umanitoba.ca/statistics/) and [Computer Science](https://www.sci.umanitoba.ca/cs/) at the University of Manitoba. My research focuses on dimension reduction methods for high-dimensional data, with a special interest for computationally and statistically efficient methods.
+I'm an Assistant Professor in the department of [Statistics](https://www.sci.umanitoba.ca/statistics/) at the University of Manitoba. My research focuses on dimension reduction methods for complex high-dimensional data, with a special interest for computationally and statistically efficient methods.
 
 My main computational projects are `R` packages:
   - [`casebase`](http://sahirbhatnagar.com/casebase/) for fitting smooth parametric hazards using case-base sampling.
