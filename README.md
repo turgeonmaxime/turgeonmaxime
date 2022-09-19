@@ -10,6 +10,7 @@ My main computational projects are `R` packages:
   - [`rootWishart`](https://github.com/turgeonmaxime/rootWishart) uses arbitrary-precision linear algebra to compute the distribution of the largest root of single and double Wishart problems.
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=turgeonmaxime&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turgeonmaxime&layout=compact&hide=html,css,scss,javascript&exclude=f21-data2010&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **turgeonmaxime/turgeonmaxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
