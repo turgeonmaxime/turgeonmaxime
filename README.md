@@ -2,10 +2,11 @@
 
 I am a data scientist working for [Tesera Systems](https://www.tesera.com/).
 
-I also hold an adjunct position in the department of [Statistics](https://www.sci.umanitoba.ca/statistics/) at the University of Manitoba. My research focuses on dimension reduction methods for complex high-dimensional data, with a special interest for computationally and statistically efficient methods. You can find the code repositories for some of our projects [here on Github](https://github.com/UMDimReduction/).
+I also hold an adjunct position in the department of [Statistics]([https://www.sci.umanitoba.ca/statistics/](https://umanitoba.ca/science/statistics)) at the University of Manitoba. My research focuses on dimension reduction methods for complex high-dimensional data, with a special interest for computationally and statistically efficient methods. You can find the code repositories for some of our projects [here on Github](https://github.com/UMDimReduction/).
 
 My main computational projects are `R` packages:
-  - [`casebase`](http://sahirbhatnagar.com/casebase/) for fitting smooth parametric hazards using case-base sampling.
+  - [`casebase`](https://sahirbhatnagar.com/casebase/) for fitting smooth parametric hazards using case-base sampling.
+  - [`biomasscan`](https://github.com/tesera/biomasscan) for estimating the above-ground biomass in individual trees using Canadian allometric equations.
   - [`pcev`](https://github.com/GreenwoodLab/pcev) implements *Principal Component of Explained Variance*, a dimension reduction method coupled with a hypothesis-testing framework for two multivariate datasets.
   - [`rootWishart`](https://github.com/turgeonmaxime/rootWishart) uses arbitrary-precision linear algebra to compute the distribution of the largest root of single and double Wishart problems.
 
